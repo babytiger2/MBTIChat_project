@@ -44,8 +44,8 @@
 </div>
  <nav id="menubar">
     <ul>
-      <li><a href="#">MBTIchat</a></li>
-      <li><a href="#">게시판</a></li>
+      <li><a href="#">MBTI</a></li>
+      <li><a href="../borad/list.jsp">게시판</a></li>
       <li><a href="#">채팅</a></li>
       <li><a href="#">나의 활동</a></li>
     </ul>

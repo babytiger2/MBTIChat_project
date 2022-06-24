@@ -1,4 +1,4 @@
-package org.chat.mbti;
+package org.chat.mbti.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
