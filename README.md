@@ -3,7 +3,7 @@
 <h4>Hi. there!&#128075;</h4>
 Team members: Kim Seolin, Lee Seul<br/>
 We design and build small projects for MBTI enthusiasts.<br/>
-This is a cafe where you can chat and share your hobbies by exposing your MBTI.<br/>
+This is a Internet blog where you can chat and share your hobbies by exposing your MBTI.<br/>
 <br/>
 <hr>
   <h1>🔧skills</h1>
